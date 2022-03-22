@@ -1,0 +1,16 @@
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.exe
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.deps.json
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.runtimeconfig.json
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.runtimeconfig.dev.json
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.dll
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\bin\Debug\net5.0\System-IO.pdb
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.csproj.AssemblyReference.cache
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.AssemblyInfoInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.AssemblyInfo.cs
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.csproj.CoreCompileInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.dll
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\refint\System-IO.dll
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.pdb
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\System-IO.genruntimeconfig.cache
+C:\Users\Tomcat00\Dotnet-401\Lab03-System.IO\System-IO\System-IO\obj\Debug\net5.0\ref\System-IO.dll
